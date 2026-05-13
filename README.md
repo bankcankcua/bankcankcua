@@ -1,6 +1,6 @@
 ## Hi there 👋
 # Data Analyst | Aspiring Data Engineer
-Passionate about turning messy data into meaningful insights — and occasionally spending 3 hours debugging a missing comma in SQL. 😶‍🌫️
+Passionate about turning messy data into meaningful insights — and occasionally spending 3 hours debugging a missing comma in SQL.😶‍🌫️
 
 Currently working with SQL, Python, PostgreSQL, Power BI, and ETL workflows. 
 Exploring modern data stack tools like Airflow and dbt while building real-world analytics and data engineering projects.
