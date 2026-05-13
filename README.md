@@ -1,10 +1,11 @@
 ## Hi there 👋 I'm Le Ngoc Xuan Nhi aka Bankcankcua 🦀🦀🦀
 # Data Analyst | Aspiring Data Engineer
-Passionate about turning messy data into meaningful insights — and occasionally spending 3 hours debugging a missing comma in SQL.😶‍🌫️
+🕯 Passionate about turning messy data into meaningful insights — and occasionally spending 3 hours debugging a missing comma in SQL.
 
-Currently working with SQL, Python, PostgreSQL, Power BI, and ETL workflows. 
+🎍 Currently working with SQL, Python, PostgreSQL, Power BI, and ETL workflows. 
 Exploring modern data stack tools like Airflow and dbt while building real-world analytics and data engineering projects.
 
+🎋 Learning to become more than just someone who builds dashboards — but someone who connects business problems, data, and engineering into meaningful solutions.
 <!--
 **bankcankcua/bankcankcua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
