@@ -1,5 +1,5 @@
 #👋 I'm Le Ngoc Xuan Nhi aka Bankcankcua 🦀🦀🦀
-## Data Analyst | Aspiring Data Engineer
+### Data Analyst | Aspiring Data Engineer
 🕯 Passionate about turning messy data into meaningful insights — and occasionally spending 3 hours debugging a missing comma in SQL.
 
 🎍 Currently working with SQL, Python, PostgreSQL, Power BI, and ETL workflows. 
